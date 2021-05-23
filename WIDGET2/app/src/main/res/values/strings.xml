@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WIDGET</string>
+    <string name="NAMA">NAMA</string>
+    <string name="NIK">NIK</string>
+    <string name="STATUS">STATUS</string>
+    <string name="GENDER">GENDER</string>
+    <string name="LAMPIRAN">LAMPIRAN</string>
+    <string name="PRIA">PRIA</string>
+    <string name="WANITA">WANITA</string>
+    <string name="KTP">KTP</string>
+    <string name="KK">KK</string>
+    <string name="SIM">SIM</string>
+    <string name="todo">TOT</string>
+</resources>
